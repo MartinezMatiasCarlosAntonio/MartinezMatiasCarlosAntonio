@@ -6,8 +6,15 @@
 
 body {
     padding: 30px 0 15px 0;      
-    background: rgb(0,0,128);
+    background: rgb(255, 160, 122);
 }
+/**
+ * h1 ---- titulo
+ * header -- marco titulo
+ * footer -- hasta abajo xD
+ * 
+ * 
+ */ 
 
 h1 {
     font-size:40px;
