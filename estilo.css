@@ -74,7 +74,7 @@ section {
 }
 
 #segunda {
-    background:rgb(30, 56, 34);    
+    background:rgb(204, 204, 255);    
     margin: auto .5em;
     text-align: center;
     align-items: center;    
@@ -96,7 +96,7 @@ img{
 
 footer { 
     margin: 2em 12.5em; 
-    background:rgb(30, 56, 34);
+    background:rgb(159, 226, 191);
 }
 
 footer p {
